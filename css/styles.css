@@ -1,0 +1,43 @@
+/*****************************TAG SELECTORS***************************/
+body {
+  background-color: #eaf6f6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 8%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
+
+/****************************CLASS SELECTORS***************************/
+.big-container{
+padding:2% 7%;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+
+
+
+/****************************ID SELECTORS***************************/
